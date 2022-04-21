@@ -27,6 +27,7 @@ Baseline Goals:
 -Include up to 5 instruments per track
 -Use at least 12 unique instruments
 -Give all tracks a name
+-Upload the Garageband files as well as .mp3 versions
 
 Aspirational Goals:
 -Produce 5+ tracks
