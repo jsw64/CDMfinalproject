@@ -24,8 +24,8 @@ Soundtracks of Pitt:
 
 Baseline Goals:
 -Produce 3-5 tracks
--Include up to 5 instruments per track
--Use at least 12 unique instruments
+-Include up to 3 instruments per track
+-Use at least 10 unique instruments
 -Give all tracks a name
 -Upload the Garageband files as well as .mp3 versions
 
